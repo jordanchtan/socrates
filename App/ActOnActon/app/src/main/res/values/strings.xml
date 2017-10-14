@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Act On Acton</string>
+    <string name="title_activity_waiting">WaitingActivity</string>
+    <string name="title_activity_store_results">StoreResultsActivity</string>
+    <string name="title_activity_deals">DealsActivity</string>
+    <string name="title_activity_in_store">InStoreActivity</string>
+    <string name="title_activity_offers">OffersActivity</string>
+</resources>

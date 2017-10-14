@@ -1,0 +1,2 @@
+Increase slurry density to restrain pressures 
+Reduce waiting-on-cement time 
