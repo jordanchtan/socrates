@@ -1,5 +1,4 @@
-# alexa-educational-tool
+# Socrates
 
+Socrates is a learning assistant developed at the BP-Amaon Hackathon at White City.
 Code to be added soon
-
-A tool that was developed at the BP-Amazon hackathon. It is essentially a way of implementing flash cards by using a amazon echo.
